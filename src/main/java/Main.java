@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("first");
@@ -5,6 +8,8 @@ public class Main {
         System.out.println("second");
         System.out.println("bugFix");
         System.out.println("bugFix2");
+
+        List <String> listStr = new ArrayList<>();
 
     }
 }

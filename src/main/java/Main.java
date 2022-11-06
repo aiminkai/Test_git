@@ -6,5 +6,7 @@ public class Main {
         System.out.println("bugFix");
         System.out.println("bugFix2");
 
+        int [] array = new int[5];
+
     }
 }
